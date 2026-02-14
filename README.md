@@ -98,7 +98,8 @@ further-analysis-of-bike-sharing/
 │   └── hour.csv                             # Dataset per jam
 │
 ├── notebook/
-│   └── k-means.py                           # Script analisis & clustering
+│   ├── k-means.py                           
+|   └── k-means.ipynb                       # Script analisis & clustering
 │
 ├── Laporan Analisis Lanjutan Bike-sharing.pdf  # Laporan proyek (PDF)
 ├── requirements.txt                         # Daftar library Python
