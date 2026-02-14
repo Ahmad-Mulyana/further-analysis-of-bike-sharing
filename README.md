@@ -118,7 +118,7 @@ Langkah ini digunakan untuk menghasilkan dataset clustering:
 1. Jalankan file analisis:
 
 ```bash
-python pdsd.py
+python k-means.py
 ```
 
 2. File hasil clustering akan dibuat:
@@ -140,7 +140,7 @@ pip install -r requirements.txt
 2. Jalankan dashboard:
 
 ```bash
-streamlit run dashboard.py
+streamlit run ./dashboard/dashboard.py
 ```
 
 Dashboard akan terbuka otomatis di browser.
@@ -151,7 +151,7 @@ Dashboard akan terbuka otomatis di browser.
 
 Jika sudah dideploy:
 
-[[https://link-dashboard-streamlit.app](https://link-dashboard-streamlit.app)]
+[[https://analysis-of-bike-sharing.streamlit.app/](https://analysis-of-bike-sharing.streamlit.app/)]
 
 ---
 
@@ -168,9 +168,12 @@ Dashboard membantu pengguna untuk:
 
 ## Tim Pengembang
 
-* Arkan Thejambangs — Tim Laporan
-* [Nama Anggota] — Tim Analisis
-* [Nama Anggota] — Tim Dashboard
+* AHMAD MULYANA — Project Manager
+* ARKAN RAMADHAN ASYIKIN — Tim Laporan
+* M NAUVAL IZUL HAQ G — Tim Analisis
+* ADITYA FIRDAUS — Tim Analisis
+* MOCHAMMAD FAHRIZA PRATAMA — Tim Dashboard
+* AKBAR KARUNIA PUTRA — Tim Dashboard
 
 ---
 
